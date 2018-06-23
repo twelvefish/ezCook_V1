@@ -3,5 +3,6 @@ ezCook Line chatbot
 
 ezCook系統功能
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/khIWf5KzBJE" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/khIWf5KzBJE)
+
 
