@@ -14,6 +14,7 @@ V1簡單版
 6、抽籤食譜
 7、輸入食材，系統選出相對應食譜
 </p>
+
 [![Watch the video](http://i3.ytimg.com/vi/khIWf5KzBJE/hqdefault.jpg)](https://www.youtube.com/watch?v=khIWf5KzBJE)
 
 未來改善功能 :
