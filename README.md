@@ -4,7 +4,7 @@ ezCook Line chatbot
 ezCook系統功能
 
 V1簡單版
-
+<p>
 系統功能(完成):
 1、跨越兩個line帳號傳送template訊息(互傳文字尚未打通)
 2、廚師、會員註冊綁定
@@ -13,7 +13,7 @@ V1簡單版
 5、各國料理食譜選擇，食譜文字、食譜影音
 6、抽籤食譜
 7、輸入食材，系統選出相對應食譜
-
+</p>
 [![Watch the video](http://i3.ytimg.com/vi/khIWf5KzBJE/hqdefault.jpg)](https://www.youtube.com/watch?v=khIWf5KzBJE)
 
 未來改善功能 :
