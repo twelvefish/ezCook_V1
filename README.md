@@ -1,5 +1,5 @@
 # ezCook_V1
-ezCook Line chatbot 
+ezCook Line chatbot (一切美術皆是他人設計)
 
 ezCook系統功能
 
